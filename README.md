@@ -56,7 +56,7 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing the number of signs per class and
 the ratio of training/validation/and test set.
 
-![alt text][image1]: ./writeup/statistics.png
+[image1]: ./writeup/statistics.png "x"
 
 ###Design and Test a Model Architecture
 
@@ -76,7 +76,7 @@ slightly rotated both clock- and counter-clock-wise. The rotation is 3 degree, w
 
 Here is an example of the final image, the left image is normalized and to see if there is a difference, the right image is equalized.
 
-![alt text][image2] .writeup/normalize_and_equalize.png
+[image2]: .writeup/normalize_and_equalize.png "y"
 
 I did not include images of the augmented data, because the rotation is hardly visible.
 
@@ -128,7 +128,7 @@ My final model results were:
 
 I took the liberty to take some photos from real german traffic signs, since I wanted to experiment on angles etc.:
 
-![alt text][image4]./custom_sings/keepr1_38.jpg ![alt text][image5] ![alt text][image6] 
+[image4]./custom_sings/keepr1_38.jpg ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
 The first image might be difficult to classify because ...
