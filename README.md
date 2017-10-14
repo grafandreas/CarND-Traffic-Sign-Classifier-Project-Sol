@@ -76,7 +76,7 @@ slightly rotated both clock- and counter-clock-wise. The rotation is 3 degree, w
 
 Here is an example of the final image, the left image is normalized and to see if there is a difference, the right image is equalized.
 
-[image2]: .writeup/normalize_and_equalize.png "y"
+[image2]: ./writeup/normalize_and_equalize.png "y"
 
 I did not include images of the augmented data, because the rotation is hardly visible.
 
