@@ -56,7 +56,7 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing the number of signs per class and
 the ratio of training/validation/and test set.
 
-[image1]: https://github.com/grafandreas/CarND-Traffic-Sign-Classifier-Project-Sol/blob/master/writeup/statistics.png "x"
+![image1](https://github.com/grafandreas/CarND-Traffic-Sign-Classifier-Project-Sol/blob/master/writeup/statistics.png)
 
 ###Design and Test a Model Architecture
 
